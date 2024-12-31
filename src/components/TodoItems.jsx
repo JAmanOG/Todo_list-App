@@ -61,5 +61,3 @@ const TodoItem = ({ todo, onUpdate, onDelete, onToggle }) => {
     );
   };
   
-
-export default TodoItem;
